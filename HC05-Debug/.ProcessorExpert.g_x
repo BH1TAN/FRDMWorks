@@ -1,0 +1,49 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/iofiles"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/pdd/inc"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/IO_Map.h" FileDate="2015-05-09, 23:31:33" FileAge="1431185493331" FileType="45637" />
+      <File Name="Sources/ProcessorExpert.c" FileDate="2015-05-11, 18:25:33" FileAge="1431339933023" FileType="128" />
+      <File Name="Sources/Events.h" FileDate="2015-05-11, 18:25:33" FileAge="1431339933076" FileType="131328" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2015-05-09, 23:31:33" FileAge="1431185493306" FileType="45637" CompNumb="2" />
+      <File Name="Sources/Events.c" FileDate="2015-05-10, 23:32:48" FileAge="1431271968851" FileType="131328" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2015-05-11, 18:25:33" FileAge="1431339933056" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2015-05-11, 18:25:33" FileAge="1431339933072" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2015-05-09, 23:31:33" FileAge="1431185493334" FileType="45637" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2015-05-11, 18:25:33" FileAge="1431339933018" FileType="45637" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2015-05-09, 23:31:33" FileAge="1431185493338" FileType="45637" />
+      <File Name="Documentation/ProcessorExpert_SIGNALS.txt" FileDate="2015-05-11, 18:25:33" FileAge="1431339933095" FileType="3072" />
+      <File Name="Documentation/doxygen/ASerialLdd2.txt" FileDate="2015-05-11, 18:01:50" FileAge="1431338510384" FileType="45637" CompNumb="29" />
+      <File Name="Documentation/doxygen/ProcessorExpert.txt" FileDate="2015-05-11, 18:25:33" FileAge="1431339933060" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2015-05-11, 18:25:33" FileAge="1431339933068" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2015-05-11, 18:25:33" FileAge="1431339933064" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2015-05-03, 00:15:27" FileAge="1430583327608" FileType="16384" CompNumb="2" />
+      <File Name="Documentation/doxygen/ASerialLdd1.txt" FileDate="2015-05-11, 18:01:50" FileAge="1431338510338" FileType="45637" CompNumb="24" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2015-05-03, 00:15:27" FileAge="1430583327791" FileType="8" CompNumb="2" />
+      <File Name="Generated_Code/AS2.h" FileDate="2015-05-10, 10:35:12" FileAge="1431225312294" FileType="45637" CompNumb="28" />
+      <File Name="Generated_Code/ASerialLdd2.h" FileDate="2015-05-11, 18:01:50" FileAge="1431338510317" FileType="45637" CompNumb="29" />
+      <File Name="Project_Settings/Debugger/MKL25Z128.mem" FileDate="2015-05-03, 00:15:27" FileAge="1430583327809" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/AS2.c" FileDate="2015-05-10, 10:35:12" FileAge="1431225312292" FileType="45637" CompNumb="28" />
+      <File Name="Generated_Code/ASerialLdd2.c" FileDate="2015-05-11, 18:01:50" FileAge="1431338510342" FileType="45637" CompNumb="29" />
+      <File Name="Documentation/ProcessorExpert_Settings.xml" FileDate="2015-05-11, 18:25:33" FileAge="1431339933107" FileType="3072" />
+      <File Name="Generated_Code/AS1.h" FileDate="2015-05-09, 23:31:33" FileAge="1431185493345" FileType="45637" CompNumb="23" />
+      <File Name="Generated_Code/ASerialLdd1.h" FileDate="2015-05-11, 18:01:50" FileAge="1431338510325" FileType="45637" CompNumb="24" />
+      <File Name="Documentation/ProcessorExpert.txt" FileDate="2015-05-11, 18:25:33" FileAge="1431339933118" FileType="3072" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2015-05-03, 00:15:27" FileAge="1430583327822" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/AS1.c" FileDate="2015-05-09, 23:31:33" FileAge="1431185493343" FileType="45637" CompNumb="23" />
+      <File Name="Generated_Code/ASerialLdd1.c" FileDate="2015-05-11, 18:01:50" FileAge="1431338510332" FileType="45637" CompNumb="24" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2015-05-03, 00:15:27" FileAge="1430583327814" FileType="45637" CompNumb="2" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>24</CodeGenReference>
+</CodeGenerationInfo>
